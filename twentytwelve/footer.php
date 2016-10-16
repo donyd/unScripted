@@ -10,7 +10,6 @@
  */
 ?>
 	</div><!-- #main .wrapper -->
-</div><!-- .main-container -->
 	<footer id="colophon" role="contentinfo">
 		<div class="site-info">
 			<?php do_action( 'twentytwelve_credits' ); ?>
@@ -19,7 +18,6 @@
 	</footer><!-- #colophon -->
 </div><!-- #page -->
 
-<?php get_sidebar(); ?>
 <?php wp_footer(); ?>
 </body>
 </html>
